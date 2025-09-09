@@ -6,7 +6,7 @@
 export default {
   "title": "Tài liệu Pythonvn",
   "tagline": "Xem ngay tài liệu của bạn ngay bây giờ tại docs.pythonvn.com",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/dóc-logo.svg",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,

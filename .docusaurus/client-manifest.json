@@ -216,7 +216,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.dc40510e.js",
-          "hash": "f98ee06d80009174",
+          "hash": "e3d5d8666ca9d18c",
           "publicPath": "/vi/assets/js/runtime~main.dc40510e.js"
         }
       ]
@@ -332,9 +332,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.5a68a43b.js",
-          "hash": "b13600bcc72558eb",
-          "publicPath": "/vi/assets/js/main.5a68a43b.js"
+          "file": "assets/js/main.f1400602.js",
+          "hash": "047f740e0d92cb89",
+          "publicPath": "/vi/assets/js/main.f1400602.js"
         }
       ]
     },
