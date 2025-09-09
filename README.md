@@ -1,41 +1,56 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Docs Pythonvn
 
 ## Installation
 
-```bash
-yarn
+### Cấu hình
+Trước khi build vui lòng thiết lập các thông tin sau trong file docusaurus.config.js
+
+```js
+module.exports = {
+    baseUrl: '/repositories/', //repositories 
+    organizationName: 'user', // User
+    projectName: 'repositories', //repositories 
+    deploymentBranch: 'gh-pages',
+};
 ```
 
-## Local Development
+Từ project tạo thư mục tạm tmp-gh-pages và cd vào thư mục đó
 
 ```bash
-yarn start
+mkdir ~/tmp-gh-pages
+cd ~/tmp-gh-pages
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
+Chuyển sang branch gh-pages:
 
 ```bash
-yarn build
+git checkout gh-pages
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
+Tiến hành xoá trống brach gh-pages
 
 ```bash
-USE_SSH=true yarn deploy
+git rm -rf .
 ```
 
-Not using SSH:
+Tạo file README.MD với nội dung trống sau đó commit và push lên branch gh-pages
 
 ```bash
-GIT_USER=<Your GitHub username> yarn deploy
+git commit -m "Init gh-pages branch"
+git push gh-pages
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Sau đó quay lại branch Chính Main
+
+```bash
+git checkout main
+```
+
+Chạy lệnh sau để build và deploy
+```bash
+GIT_USER=usergit GIT_PASS=your_token npm run deploy
+```
+
+Thank you!
