@@ -1,0 +1,28 @@
+{
+  "id": "how-using/overview",
+  "title": "Overview",
+  "description": "It's your system administration dashboard! Here you can quickly monitor key metrics, performance, and updates. The interface is designed to help you manage content, users, and system performance easily and efficiently. Not all interfaces have the same dashboard, each tailored to the type of application",
+  "source": "@site/docs/how-using/overview.md",
+  "sourceDirName": "how-using",
+  "slug": "/how-using/overview",
+  "permalink": "/docs-pythonvn/docs/how-using/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-using/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How using",
+    "permalink": "/docs-pythonvn/docs/category/how-using"
+  },
+  "next": {
+    "title": "Login",
+    "permalink": "/docs-pythonvn/docs/how-using/login"
+  }
+}

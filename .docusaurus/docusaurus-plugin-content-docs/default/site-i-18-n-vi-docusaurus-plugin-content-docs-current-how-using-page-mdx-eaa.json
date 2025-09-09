@@ -1,0 +1,28 @@
+{
+  "id": "how-using/page",
+  "title": "Trang",
+  "description": "Trên một website, \"Trang\" (Pages) đóng vai trò là các khu vực nội dung tĩnh hoặc bán tĩnh – tạo nên bộ khung chính của toàn bộ site.",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/how-using/page.mdx",
+  "sourceDirName": "how-using",
+  "slug": "/how-using/page",
+  "permalink": "/docs-pythonvn/vi/docs/how-using/page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-using/page.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Trang"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Thư viện lưu trữ",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/media"
+  },
+  "next": {
+    "title": "Bài viết",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/post"
+  }
+}
