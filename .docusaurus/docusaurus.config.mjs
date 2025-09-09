@@ -29,7 +29,7 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://docs.pythonvn.com",
-  "baseUrl": "/",
+  "baseUrl": "/vi/",
   "organizationName": "meothongthai",
   "projectName": "docs-pythonvn",
   "deploymentBranch": "gh-pages",
@@ -77,7 +77,7 @@ export default {
     "navbar": {
       "title": "Docs PythonVn",
       "logo": {
-        "alt": "Docs Pythonvn",
+        "alt": "Site Logo",
         "src": "img/docs-logo.svg",
         "href": "/"
       },
@@ -161,7 +161,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 Pythonvn, Inc."
+      "copyright": "Copyright © 2025 pythonvn.com, Inc."
     },
     "prism": {
       "theme": {
