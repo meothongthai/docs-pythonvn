@@ -1,0 +1,93 @@
+---
+sidebar_position: 8
+title: 'Tài khoản'
+---
+
+import Highlight from '@site/src/components/Highlight';
+import Textcolor from '@site/src/components/Textcolor'
+
+Trình quản lý tài khoản (Account Manage) cho phép theo dõi, tổ chức và phân quyền người dùng trong website hoặc ứng dụng. Bao gồm quản trị viên và khách hàng:
+- Quản trị viên (Admin): có toàn quyền kiểm soát hệ thống, bao gồm tạo mới, chỉnh sửa, xóa tài khoản, phân quyền truy cập, giám sát hoạt động và quản lý dữ liệu.
+- Khách hàng (User/Customer): có quyền truy cập vào tài khoản cá nhân của mình, cập nhật thông tin, theo dõi lịch sử giao dịch/dịch vụ, và sử dụng các tính năng mà quản trị viên cho phép.
+
+Doanh nghiệp dễ dàng duy trì hệ thống người dùng minh bạch, an toàn và tối ưu trải nghiệm khách hàng, đồng thời đảm bảo tính bảo mật và hiệu quả vận hành.
+
+## Quản lý tài khoản
+
+Tại màn hình chính **Quản lý tài khoản** chứa danh sách tài khoản với các thông tin cụ thể như:
+1. Tài khoản: Tên người dùng, email đăng nhập
+2. Vai trò: Thể hiện quyền hiện tại của tài khoản
+3. Trạng thái: Hiển thị trạng thái tài khoản đã kích hoạt hoặc vô hiệu hoá...
+4. Đăng nhập gần nhất: Cho biết thời gian tài khoản đăng nhập lần cuối
+
+![Quản lý tài khoản](/img/account/account-0.png)
+
+### Thêm tài khoản mới
+
+Để thêm tài khoản mới click button <Highlight color="#4f46e5">Thêm mới</Highlight> như hình trên, sau đó nhập đầy đủ thông tin trong form:
+- Họ và tên
+- Email
+- Số điện thoại
+- Giới tính
+- Mật khẩu, Nhập lại mật khẩu
+- Vai trò: Để trống nếu là khách hàng
+- Nhóm thành viên: Để trống nếu là khách hàng
+
+Sau khi thêm đầy đủ thông tin click button <Highlight color="#4f46e5">Tạo tài khoản</Highlight> để lưu lại.
+
+![Quản lý tài khoản](/img/account/account-1.png)
+
+### Chỉnh sửa tài khoản
+
+Để chỉnh sửa thông tin tài khoản tại danh sách trong trang quản lý tài khoản di chuyển chuột vào tài khoản cần sửa sau đó chọn **Chỉnh sửa**
+
+![Quản lý tài khoản](/img/account/account-2.png)
+
+Chỉnh sửa thông tin như mong muốn, tiến hành click button **Cập nhật** để lưu lại thay đổi của bạn.
+
+![Quản lý tài khoản](/img/account/account-1.png)
+
+### Xoá tài khoản
+
+Để xoá tài khoản tại danh sách trong trang quản lý tài khoản di chuyển chuột vào tài khoản cần sửa sau đó chọn **Xoá** như hình dưới
+
+![Quản lý tài khoản](/img/account/account-3.png)
+
+_Lưu ý: Hành động này sẽ không khôi phục lại dữ liệu đã xoá vui lòng cân nhắc trước khi thực hiện thao tác này._ 
+
+## Quyền truy cập
+
+Trình quản lý Quyền truy cập (Access Management) trong website là công cụ cho phép kiểm soát và phân cấp quyền hạn của từng người dùng khi tham gia hệ thống. Với tính năng này, quản trị viên có thể xác định ai được phép truy cập vào khu vực nào, sử dụng chức năng nào, hoặc chỉnh sửa dữ liệu gì. Nhờ đó, website hoạt động minh bạch, an toàn và chuyên nghiệp hơn. Việc quản lý quyền truy cập không chỉ giúp bảo mật thông tin, ngăn chặn truy cập trái phép, mà còn tối ưu trải nghiệm người dùng khi mỗi người chỉ nhìn thấy và thao tác đúng với vai trò, nhiệm vụ của mình trong hệ thống.
+
+### Thêm mới nhóm mới
+
+Tại màn hình quản lý click button <Highlight color="#4f46e5">Thêm mới</Highlight> để chuyển sang màn hình thiết lập thông tin nhóm mới
+
+![Quản lý tài khoản](/img/account/account-4.png)
+
+Tại đây bạn nhập các thông tin:
+
+- Tên nhóm
+- Mô tả
+- Quyền thao tác
+- Các chức năng cho nhóm người dùng được phép hoạt động
+
+sau đó click button <Highlight color="#4f46e5">Thêm mới</Highlight> để thêm nhóm vào hệ thống
+
+![Quản lý tài khoản](/img/account/account-5.png)
+
+### Chỉnh sửa nhóm
+
+Để chỉnh sửa nhóm nào đó tại danh sách nhóm trên màn hình quản lý **Quyền truy cập** di chuyển chuột tới nhóm cần chỉnh sửa sau đó chọn **Chỉnh sửa**
+
+![Quản lý tài khoản](/img/account/account-6.png)
+
+Sau khi hoàn tất các cài đặt click button <Highlight color="#4f46e5">Lưu thay đổi</Highlight> để cập nhật các cài đặt của bạn.
+
+### Xoá nhóm
+
+Để Xoá nhóm nào đó tại danh sách nhóm trên màn hình quản lý **Quyền truy cập** di chuyển chuột tới nhóm cần xoá sau đó chọn **Xoá**
+
+![Quản lý tài khoản](/img/account/account-6.png)
+
+_Lưu ý: Hành động này sẽ không khôi phục lại dữ liệu đã xoá vui lòng cân nhắc trước khi thực hiện thao tác này._ 
