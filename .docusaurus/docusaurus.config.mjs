@@ -31,7 +31,7 @@ export default {
   "url": "https://docs.pythonvn.com",
   "baseUrl": "/docs-pythonvn/vi/",
   "organizationName": "meothongthai",
-  "projectName": "docs pythonvn",
+  "projectName": "docs-pythonvn",
   "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

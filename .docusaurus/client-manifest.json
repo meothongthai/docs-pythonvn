@@ -225,7 +225,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.623f6b74.js",
-          "hash": "d60bd3cd7987d4f6",
+          "hash": "913cad644caf1648",
           "publicPath": "/docs-pythonvn/vi/assets/js/runtime~main.623f6b74.js"
         }
       ]
@@ -332,9 +332,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.88bff4e6.js",
-          "hash": "7632fcd3e6c6b198",
-          "publicPath": "/docs-pythonvn/vi/assets/js/main.88bff4e6.js"
+          "file": "assets/js/main.4779eeef.js",
+          "hash": "33f5c82f51ebd1eb",
+          "publicPath": "/docs-pythonvn/vi/assets/js/main.4779eeef.js"
         }
       ]
     },
