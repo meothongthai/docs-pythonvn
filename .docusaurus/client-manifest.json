@@ -37,19 +37,19 @@
       869,
       969
     ],
+    "16192c47": [
+      426
+    ],
     "1f391b9e": [
       668,
       869,
       61
     ],
-    "2cff39d3": [
-      782
-    ],
     "393be207": [
       134
     ],
     "544aceb6": [
-      163
+      782
     ],
     "5e95c892": [
       647
@@ -62,9 +62,6 @@
     ],
     "83827ae1": [
       100
-    ],
-    "87d1a607": [
-      627
     ],
     "a7456010": [
       235
@@ -93,11 +90,14 @@
       869,
       667
     ],
+    "f2b0f5eb": [
+      603
+    ],
+    "f449f2f1": [
+      363
+    ],
     "fecb6510": [
       223
-    ],
-    "ff8f880f": [
-      535
     ],
     "styles": [
       48,
@@ -116,9 +116,9 @@
     "16": {
       "js": [
         {
-          "file": "assets/js/76ab9b66.58cfdcc9.js",
-          "hash": "2ec9f7e5b1f04960",
-          "publicPath": "/docs-pythonvn/vi/assets/js/76ab9b66.58cfdcc9.js"
+          "file": "assets/js/76ab9b66.1c848869.js",
+          "hash": "a5e27decfbca5f6f",
+          "publicPath": "/vi/assets/js/76ab9b66.1c848869.js"
         }
       ]
     },
@@ -127,7 +127,7 @@
         {
           "file": "assets/js/a94703ab.cb4fee4d.js",
           "hash": "1a35375b2caa5c5b",
-          "publicPath": "/docs-pythonvn/vi/assets/js/a94703ab.cb4fee4d.js"
+          "publicPath": "/vi/assets/js/a94703ab.cb4fee4d.js"
         }
       ]
     },
@@ -136,7 +136,7 @@
         {
           "file": "assets/js/1f391b9e.78437da6.js",
           "hash": "6da52046bb2fb860",
-          "publicPath": "/docs-pythonvn/vi/assets/js/1f391b9e.78437da6.js"
+          "publicPath": "/vi/assets/js/1f391b9e.78437da6.js"
         }
       ]
     },
@@ -145,52 +145,43 @@
         {
           "file": "assets/js/a7bd4aaa.9b62079e.js",
           "hash": "a98680f0a940dc07",
-          "publicPath": "/docs-pythonvn/vi/assets/js/a7bd4aaa.9b62079e.js"
+          "publicPath": "/vi/assets/js/a7bd4aaa.9b62079e.js"
         }
       ]
     },
     "100": {
       "js": [
         {
-          "file": "assets/js/83827ae1.41763df8.js",
-          "hash": "fb7a895ae10f97ab",
-          "publicPath": "/docs-pythonvn/vi/assets/js/83827ae1.41763df8.js"
+          "file": "assets/js/83827ae1.8e3b8322.js",
+          "hash": "3bdca4ac7897cf22",
+          "publicPath": "/vi/assets/js/83827ae1.8e3b8322.js"
         }
       ]
     },
     "134": {
       "js": [
         {
-          "file": "assets/js/393be207.c446f68b.js",
-          "hash": "b3416797aa127715",
-          "publicPath": "/docs-pythonvn/vi/assets/js/393be207.c446f68b.js"
-        }
-      ]
-    },
-    "163": {
-      "js": [
-        {
-          "file": "assets/js/544aceb6.5df39c2b.js",
-          "hash": "d97fc32437154374",
-          "publicPath": "/docs-pythonvn/vi/assets/js/544aceb6.5df39c2b.js"
+          "file": "assets/js/393be207.19f55fc0.js",
+          "hash": "350d01665eca1e19",
+          "publicPath": "/vi/assets/js/393be207.19f55fc0.js"
         }
       ]
     },
     "171": {
       "js": [
         {
-          "file": "assets/js/632565e2.7c8336e0.js",
-          "hash": "c68777a32bf3198a",
-          "publicPath": "/docs-pythonvn/vi/assets/js/632565e2.7c8336e0.js"
+          "file": "assets/js/632565e2.aab8f8de.js",
+          "hash": "e8bba2ba8a818c49",
+          "publicPath": "/vi/assets/js/632565e2.aab8f8de.js"
         }
       ]
     },
     "223": {
       "js": [
         {
-          "file": "assets/js/fecb6510.04634367.js",
-          "hash": "6d22085a2676e9f0",
-          "publicPath": "/docs-pythonvn/vi/assets/js/fecb6510.04634367.js"
+          "file": "assets/js/fecb6510.8f0c49ee.js",
+          "hash": "c2104ae656de32c4",
+          "publicPath": "/vi/assets/js/fecb6510.8f0c49ee.js"
         }
       ]
     },
@@ -199,7 +190,7 @@
         {
           "file": "assets/js/a7456010.9fcd0a0c.js",
           "hash": "46a9432b3401e0d9",
-          "publicPath": "/docs-pythonvn/vi/assets/js/a7456010.9fcd0a0c.js"
+          "publicPath": "/vi/assets/js/a7456010.9fcd0a0c.js"
         }
       ]
     },
@@ -208,25 +199,34 @@
         {
           "file": "assets/js/237.3e9daa5e.js",
           "hash": "23adfb3758379895",
-          "publicPath": "/docs-pythonvn/vi/assets/js/237.3e9daa5e.js"
+          "publicPath": "/vi/assets/js/237.3e9daa5e.js"
         }
       ]
     },
     "347": {
       "js": [
         {
-          "file": "assets/js/eaac831b.016f8f68.js",
-          "hash": "6bca026bbf72855c",
-          "publicPath": "/docs-pythonvn/vi/assets/js/eaac831b.016f8f68.js"
+          "file": "assets/js/eaac831b.f7343947.js",
+          "hash": "719fa476bfea47f3",
+          "publicPath": "/vi/assets/js/eaac831b.f7343947.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.623f6b74.js",
-          "hash": "913cad644caf1648",
-          "publicPath": "/docs-pythonvn/vi/assets/js/runtime~main.623f6b74.js"
+          "file": "assets/js/runtime~main.4bae0d79.js",
+          "hash": "1b59844a86b8a351",
+          "publicPath": "/vi/assets/js/runtime~main.4bae0d79.js"
+        }
+      ]
+    },
+    "363": {
+      "js": [
+        {
+          "file": "assets/js/f449f2f1.2496f84d.js",
+          "hash": "f9c850d1c34232c7",
+          "publicPath": "/vi/assets/js/f449f2f1.2496f84d.js"
         }
       ]
     },
@@ -235,34 +235,34 @@
         {
           "file": "assets/js/17896441.3ad025cb.js",
           "hash": "d9a8499ea6ff4211",
-          "publicPath": "/docs-pythonvn/vi/assets/js/17896441.3ad025cb.js"
+          "publicPath": "/vi/assets/js/17896441.3ad025cb.js"
         }
       ]
     },
-    "535": {
+    "426": {
       "js": [
         {
-          "file": "assets/js/ff8f880f.45ff0676.js",
-          "hash": "469338912b485245",
-          "publicPath": "/docs-pythonvn/vi/assets/js/ff8f880f.45ff0676.js"
+          "file": "assets/js/16192c47.cc8bb409.js",
+          "hash": "d0bb3325a18b08b1",
+          "publicPath": "/vi/assets/js/16192c47.cc8bb409.js"
         }
       ]
     },
     "597": {
       "js": [
         {
-          "file": "assets/js/0ce93f3e.b6f5da06.js",
-          "hash": "8bdf47965ed0cde2",
-          "publicPath": "/docs-pythonvn/vi/assets/js/0ce93f3e.b6f5da06.js"
+          "file": "assets/js/0ce93f3e.f2cb99c7.js",
+          "hash": "30b410ce52168c5e",
+          "publicPath": "/vi/assets/js/0ce93f3e.f2cb99c7.js"
         }
       ]
     },
-    "627": {
+    "603": {
       "js": [
         {
-          "file": "assets/js/87d1a607.8c10e0db.js",
-          "hash": "51a31e732c96d1e6",
-          "publicPath": "/docs-pythonvn/vi/assets/js/87d1a607.8c10e0db.js"
+          "file": "assets/js/f2b0f5eb.7392b77d.js",
+          "hash": "20c277ca4c610fbd",
+          "publicPath": "/vi/assets/js/f2b0f5eb.7392b77d.js"
         }
       ]
     },
@@ -271,7 +271,7 @@
         {
           "file": "assets/js/c4f5d8e4.f1575b37.js",
           "hash": "9c4d343bc532d09e",
-          "publicPath": "/docs-pythonvn/vi/assets/js/c4f5d8e4.f1575b37.js"
+          "publicPath": "/vi/assets/js/c4f5d8e4.f1575b37.js"
         }
       ]
     },
@@ -280,16 +280,16 @@
         {
           "file": "assets/js/5e95c892.af958ae1.js",
           "hash": "2b0b953f30deceec",
-          "publicPath": "/docs-pythonvn/vi/assets/js/5e95c892.af958ae1.js"
+          "publicPath": "/vi/assets/js/5e95c892.af958ae1.js"
         }
       ]
     },
     "667": {
       "js": [
         {
-          "file": "assets/js/ebc68095.46464172.js",
-          "hash": "93e2e3d184cf08df",
-          "publicPath": "/docs-pythonvn/vi/assets/js/ebc68095.46464172.js"
+          "file": "assets/js/ebc68095.d67f708e.js",
+          "hash": "023e67562cf4daaf",
+          "publicPath": "/vi/assets/js/ebc68095.d67f708e.js"
         }
       ]
     },
@@ -298,7 +298,7 @@
         {
           "file": "assets/js/668.481fcf5f.js",
           "hash": "29de047b3b8bf31c",
-          "publicPath": "/docs-pythonvn/vi/assets/js/668.481fcf5f.js"
+          "publicPath": "/vi/assets/js/668.481fcf5f.js"
         }
       ]
     },
@@ -307,34 +307,34 @@
         {
           "file": "assets/js/aba21aa0.465a07fb.js",
           "hash": "1587ad8d0b14cc14",
-          "publicPath": "/docs-pythonvn/vi/assets/js/aba21aa0.465a07fb.js"
+          "publicPath": "/vi/assets/js/aba21aa0.465a07fb.js"
         }
       ]
     },
     "774": {
       "js": [
         {
-          "file": "assets/js/e812f2b9.a05e61ca.js",
-          "hash": "47675ed68cfee88e",
-          "publicPath": "/docs-pythonvn/vi/assets/js/e812f2b9.a05e61ca.js"
+          "file": "assets/js/e812f2b9.6e325a84.js",
+          "hash": "0c65f9c3f079d254",
+          "publicPath": "/vi/assets/js/e812f2b9.6e325a84.js"
         }
       ]
     },
     "782": {
       "js": [
         {
-          "file": "assets/js/2cff39d3.95877904.js",
-          "hash": "6dd850e0ddeec2b8",
-          "publicPath": "/docs-pythonvn/vi/assets/js/2cff39d3.95877904.js"
+          "file": "assets/js/544aceb6.48454bd1.js",
+          "hash": "87ce1cced5937366",
+          "publicPath": "/vi/assets/js/544aceb6.48454bd1.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.4779eeef.js",
-          "hash": "33f5c82f51ebd1eb",
-          "publicPath": "/docs-pythonvn/vi/assets/js/main.4779eeef.js"
+          "file": "assets/js/main.5a68a43b.js",
+          "hash": "b13600bcc72558eb",
+          "publicPath": "/vi/assets/js/main.5a68a43b.js"
         }
       ]
     },
@@ -343,16 +343,16 @@
         {
           "file": "assets/css/styles.945bcdcc.css",
           "hash": "261f4bb46bab2a2f",
-          "publicPath": "/docs-pythonvn/vi/assets/css/styles.945bcdcc.css"
+          "publicPath": "/vi/assets/css/styles.945bcdcc.css"
         }
       ]
     },
     "895": {
       "js": [
         {
-          "file": "assets/js/08d99e65.3a8f253d.js",
-          "hash": "a09ff65baf51141d",
-          "publicPath": "/docs-pythonvn/vi/assets/js/08d99e65.3a8f253d.js"
+          "file": "assets/js/08d99e65.3fc87ca9.js",
+          "hash": "bbd5f4d3bb0d80b1",
+          "publicPath": "/vi/assets/js/08d99e65.3fc87ca9.js"
         }
       ]
     },
@@ -361,7 +361,7 @@
         {
           "file": "assets/js/14eb3368.bc04529b.js",
           "hash": "fecefb63c4e987f2",
-          "publicPath": "/docs-pythonvn/vi/assets/js/14eb3368.bc04529b.js"
+          "publicPath": "/vi/assets/js/14eb3368.bc04529b.js"
         }
       ]
     }

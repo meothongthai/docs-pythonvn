@@ -1,77 +1,120 @@
 {
-  "/docs-pythonvn/vi/markdown-page-2a6": {
-    "__comp": "1f391b9e",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "393be207"
-  },
-  "/docs-pythonvn/vi/docs-7b6": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-pythonvn/vi/docs-710": {
-    "__comp": "a7bd4aaa",
-    "__props": "87d1a607"
-  },
-  "/docs-pythonvn/vi/docs-3ef": {
-    "__comp": "a94703ab"
-  },
-  "/docs-pythonvn/vi/docs/category/how-using-573": {
-    "__comp": "14eb3368",
-    "__props": "2cff39d3"
-  },
-  "/docs-pythonvn/vi/docs/category/install-c05": {
-    "__comp": "14eb3368",
-    "__props": "ff8f880f"
-  },
-  "/docs-pythonvn/vi/docs/how-using/account-716": {
-    "__comp": "17896441",
-    "content": "08d99e65"
-  },
-  "/docs-pythonvn/vi/docs/how-using/login-603": {
-    "__comp": "17896441",
-    "content": "544aceb6"
-  },
-  "/docs-pythonvn/vi/docs/how-using/media-a5c": {
-    "__comp": "17896441",
-    "content": "76ab9b66"
-  },
-  "/docs-pythonvn/vi/docs/how-using/menu-fde": {
-    "__comp": "17896441",
-    "content": "83827ae1"
-  },
-  "/docs-pythonvn/vi/docs/how-using/overview-3ce": {
-    "__comp": "17896441",
-    "content": "0ce93f3e"
-  },
-  "/docs-pythonvn/vi/docs/how-using/page-1ca": {
-    "__comp": "17896441",
-    "content": "eaac831b"
-  },
-  "/docs-pythonvn/vi/docs/how-using/post-43e": {
-    "__comp": "17896441",
-    "content": "e812f2b9"
-  },
-  "/docs-pythonvn/vi/docs/how-using/slide-ff0": {
-    "__comp": "17896441",
-    "content": "632565e2"
-  },
-  "/docs-pythonvn/vi/docs/install/server-gunicorn-49a": {
-    "__comp": "17896441",
-    "content": "ebc68095"
-  },
-  "/docs-pythonvn/vi/docs/intro-942": {
-    "__comp": "17896441",
-    "content": "fecb6510"
-  },
-  "/docs-pythonvn/vi/-c4c": {
-    "__comp": "c4f5d8e4",
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "config": "5e9f5e1a"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-eb7": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-bf0": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-824": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/how-using-60b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-how-using-2-a-5-66e"
+  },
+  "/docs/category/install-155": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-install-980-041"
+  },
+  "/docs/how-using/account-8c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-using-accountec-6-0fd"
+  },
+  "/docs/how-using/login-e15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-using-login-197-8b9"
+  },
+  "/docs/how-using/media-b7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-using-media-5-c-9-712"
+  },
+  "/docs/how-using/menu-ed5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-using-menucc-0-20f"
+  },
+  "/docs/how-using/overview-89a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-using-overview-360-eab"
+  },
+  "/docs/how-using/page-021": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-using-pagea-3-d-f9a"
+  },
+  "/docs/how-using/post-643": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-using-post-6-d-1-36b"
+  },
+  "/docs/how-using/slide-eab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-using-slide-6-c-0-765"
+  },
+  "/docs/install/server-gunicorn-5dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-install-server-gunicorne-1-a-93c"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
   }
 }

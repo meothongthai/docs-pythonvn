@@ -4,4 +4,94 @@ title: 'Account'
 ---
 
 import Highlight from '@site/src/components/Highlight';
-import Textcolor from '@site/src/components/Textcolor'
+import Textcolor from '@site/src/components/Textcolor';
+
+The Account Manager allows tracking, organizing, and assigning permissions to users on a website or application. It includes administrators and customers:
+- Administrators (Admin): Have full control over the system, including creating, editing, deleting accounts, assigning access rights, monitoring activities, and managing data.
+- Users/Customers: Can access their personal accounts, update information, track transaction/service history, and use features permitted by the administrator.
+
+Businesses can easily maintain a transparent, secure user system, optimize customer experience, and ensure operational security and efficiency.
+
+## Account Management
+
+On the main **Account Management** screen, you can view a list of accounts with details such as:
+1. Account: Username, login email
+2. Role: Shows the current permissions of the account
+3. Status: Displays whether the account is activated or disabled
+4. Last Login: Shows the time of the account’s last login
+
+![Account Management](/img/account/account-0.png)
+
+### Add a New Account
+
+To add a new account, click the <Highlight color="#4f46e5">Add New</Highlight> button as shown above, then fill in the form with:
+- Full Name
+- Email
+- Phone Number
+- Gender
+- Password, Confirm Password
+- Role: Leave blank if a customer
+- Member Group: Leave blank if a customer
+
+After entering all information, click <Highlight color="#4f46e5">Create Account</Highlight> to save.
+
+![Account Management](/img/account/account-1.png)
+
+### Edit Account
+
+To edit account information from the account list, hover over the account you want to edit and select **Edit**
+
+![Account Management](/img/account/account-2.png)
+
+Modify the information as desired, then click the **Update** button to save your changes.
+
+![Account Management](/img/account/account-1.png)
+
+### Delete Account
+
+To delete an account from the list, hover over the account you want to remove and select **Delete** as shown below
+
+![Account Management](/img/account/account-3.png)
+
+:::warning
+This action cannot be undone. Please consider carefully before performing this action.
+:::
+
+## Access Management
+
+The Access Management tool allows controlling and assigning permissions for each user within the system. With this feature, administrators can determine who can access which areas, use which functions, or edit which data. This ensures the website operates transparently, securely, and professionally. Proper access management not only protects information and prevents unauthorized access but also optimizes the user experience by allowing each person to see and operate only according to their role and responsibilities.
+
+### Add a New Group
+
+On the management screen, click the <Highlight color="#4f46e5">Add New</Highlight> button to go to the new group setup screen
+
+![Account Management](/img/account/account-4.png)
+
+Enter the following information:
+
+- Group Name
+- Description
+- Action Permissions
+- Features the user group is allowed to access
+
+Then click <Highlight color="#4f46e5">Add New</Highlight> to add the group to the system
+
+![Account Management](/img/account/account-5.png)
+
+### Edit Group
+
+To edit a group, hover over the group in the list on the **Access Management** screen and select **Edit**
+
+![Account Management](/img/account/account-6.png)
+
+After making the desired changes, click <Highlight color="#4f46e5">Save Changes</Highlight> to update your settings.
+
+### Delete Group
+
+To delete a group, hover over the group in the list on the **Access Management** screen and select **Delete**
+
+![Account Management](/img/account/account-6.png)
+
+:::warning
+This action cannot be undone. Please consider carefully before performing this action.
+:::

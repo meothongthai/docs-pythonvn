@@ -3,91 +3,126 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/docs-pythonvn/vi/markdown-page',
-    component: ComponentCreator('/docs-pythonvn/vi/markdown-page', '2a6'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
-    path: '/docs-pythonvn/vi/docs',
-    component: ComponentCreator('/docs-pythonvn/vi/docs', '7b6'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '3d7'),
+    exact: true
+  },
+  {
+    path: '/docs',
+    component: ComponentCreator('/docs', 'eb7'),
     routes: [
       {
-        path: '/docs-pythonvn/vi/docs',
-        component: ComponentCreator('/docs-pythonvn/vi/docs', '710'),
+        path: '/docs',
+        component: ComponentCreator('/docs', 'bf0'),
         routes: [
           {
-            path: '/docs-pythonvn/vi/docs',
-            component: ComponentCreator('/docs-pythonvn/vi/docs', '3ef'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '824'),
             routes: [
               {
-                path: '/docs-pythonvn/vi/docs/category/how-using',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/category/how-using', '573'),
+                path: '/docs/category/how-using',
+                component: ComponentCreator('/docs/category/how-using', '60b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/category/install',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/category/install', 'c05'),
+                path: '/docs/category/install',
+                component: ComponentCreator('/docs/category/install', '155'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/how-using/account',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/how-using/account', '716'),
+                path: '/docs/how-using/account',
+                component: ComponentCreator('/docs/how-using/account', '8c9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/how-using/login',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/how-using/login', '603'),
+                path: '/docs/how-using/login',
+                component: ComponentCreator('/docs/how-using/login', 'e15'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/how-using/media',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/how-using/media', 'a5c'),
+                path: '/docs/how-using/media',
+                component: ComponentCreator('/docs/how-using/media', 'b7d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/how-using/menu',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/how-using/menu', 'fde'),
+                path: '/docs/how-using/menu',
+                component: ComponentCreator('/docs/how-using/menu', 'ed5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/how-using/overview',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/how-using/overview', '3ce'),
+                path: '/docs/how-using/overview',
+                component: ComponentCreator('/docs/how-using/overview', '89a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/how-using/page',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/how-using/page', '1ca'),
+                path: '/docs/how-using/page',
+                component: ComponentCreator('/docs/how-using/page', '021'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/how-using/post',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/how-using/post', '43e'),
+                path: '/docs/how-using/post',
+                component: ComponentCreator('/docs/how-using/post', '643'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/how-using/slide',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/how-using/slide', 'ff0'),
+                path: '/docs/how-using/slide',
+                component: ComponentCreator('/docs/how-using/slide', 'eab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/install/server-gunicorn',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/install/server-gunicorn', '49a'),
+                path: '/docs/install/server-gunicorn',
+                component: ComponentCreator('/docs/install/server-gunicorn', '5dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs-pythonvn/vi/docs/intro',
-                component: ComponentCreator('/docs-pythonvn/vi/docs/intro', '942'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -98,8 +133,8 @@ export default [
     ]
   },
   {
-    path: '/docs-pythonvn/vi/',
-    component: ComponentCreator('/docs-pythonvn/vi/', 'c4c'),
+    path: '/',
+    component: ComponentCreator('/', '2e1'),
     exact: true
   },
   {

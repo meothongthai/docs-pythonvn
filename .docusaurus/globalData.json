@@ -1,73 +1,73 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs-pythonvn/vi/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs-pythonvn/vi/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "how-using/account",
-              "path": "/docs-pythonvn/vi/docs/how-using/account",
+              "path": "/docs/how-using/account",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how-using/login",
-              "path": "/docs-pythonvn/vi/docs/how-using/login",
+              "path": "/docs/how-using/login",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how-using/media",
-              "path": "/docs-pythonvn/vi/docs/how-using/media",
+              "path": "/docs/how-using/media",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how-using/menu",
-              "path": "/docs-pythonvn/vi/docs/how-using/menu",
+              "path": "/docs/how-using/menu",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how-using/overview",
-              "path": "/docs-pythonvn/vi/docs/how-using/overview",
+              "path": "/docs/how-using/overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how-using/page",
-              "path": "/docs-pythonvn/vi/docs/how-using/page",
+              "path": "/docs/how-using/page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how-using/post",
-              "path": "/docs-pythonvn/vi/docs/how-using/post",
+              "path": "/docs/how-using/post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "how-using/slide",
-              "path": "/docs-pythonvn/vi/docs/how-using/slide",
+              "path": "/docs/how-using/slide",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "install/server-gunicorn",
-              "path": "/docs-pythonvn/vi/docs/install/server-gunicorn",
+              "path": "/docs/install/server-gunicorn",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs-pythonvn/vi/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/install",
-              "path": "/docs-pythonvn/vi/docs/category/install",
+              "path": "/docs/category/install",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/how-using",
-              "path": "/docs-pythonvn/vi/docs/category/how-using",
+              "path": "/docs/category/how-using",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -75,7 +75,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs-pythonvn/vi/docs/intro",
+                "path": "/docs/intro",
                 "label": "intro"
               }
             }

@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+pythonvn.com is a platform specializing in providing software solutions built with the Python programming language, with a particular focus on frameworks such as Flask, FastAPI, and Flutter – some of the most powerful, flexible, and popular tools today.
 
-## Getting Started
+With the goal of delivering professional, fast, and optimized web and mobile application solutions, we have built a rich library of diverse website templates tailored to various industries, including e-commerce, services, education, travel, personal, and business sectors.
 
-Get started by **creating a new site**.
+Beyond the ready-to-use templates available on our store, pythonvn.com also offers custom design services for:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Websites
+- Mobile Applications
+- AI Solutions
 
-### What you'll need
+We provide bespoke design services to meet the specific needs, characteristics, and development directions of each client. Every product comes with detailed documentation at docs.pythonvn.com, enabling users to easily install, customize, and operate—even with little programming experience.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+With an experienced development team and a passion for Python, we are committed to delivering solutions that are optimized – secure – user-friendly, while offering dedicated support throughout the entire implementation process.
 
-## Generate a new site
+📍 Address: 110/Ngõ 165 Cau Giay, Ha Noi, Viet Nam
 
-Generate a new Docusaurus site using the **classic template**.
+🌐 Website: pythonvn.com
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+📞 Hotline: 0336 568 388
