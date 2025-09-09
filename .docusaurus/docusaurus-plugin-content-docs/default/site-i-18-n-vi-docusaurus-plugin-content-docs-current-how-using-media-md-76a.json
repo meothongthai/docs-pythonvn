@@ -1,0 +1,28 @@
+{
+  "id": "how-using/media",
+  "title": "Thư viện lưu trữ",
+  "description": "Trang này là nơi tập trung toàn bộ hình ảnh, tài liệu và tệp tin đã được tải lên hệ thống. Quản trị viên có thể dễ dàng tìm kiếm, xem trước, phân loại và quản lý các tệp lưu trữ để phục vụ cho việc đăng nội dung và vận hành website hiệu quả hơn.",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/how-using/media.md",
+  "sourceDirName": "how-using",
+  "slug": "/how-using/media",
+  "permalink": "/docs-pythonvn/vi/docs/how-using/media",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-using/media.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Thư viện lưu trữ"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tổng quan",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/overview"
+  },
+  "next": {
+    "title": "Trang",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/page"
+  }
+}

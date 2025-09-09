@@ -1,0 +1,28 @@
+{
+  "id": "how-using/login",
+  "title": "Đăng nhập",
+  "description": "Làm thế nào để truy cập vào khu vực quản lý nếu bạn có quyền quản trị? Hãy làm theo hướng dẫn dưới đây:",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/how-using/login.md",
+  "sourceDirName": "how-using",
+  "slug": "/how-using/login",
+  "permalink": "/docs-pythonvn/vi/docs/how-using/login",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-using/login.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Đăng nhập"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How using",
+    "permalink": "/docs-pythonvn/vi/docs/category/how-using"
+  },
+  "next": {
+    "title": "Tổng quan",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/overview"
+  }
+}

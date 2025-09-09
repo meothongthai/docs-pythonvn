@@ -1,0 +1,28 @@
+{
+  "id": "how-using/page",
+  "title": "Page",
+  "description": "",
+  "source": "@site/docs/how-using/page.mdx",
+  "sourceDirName": "how-using",
+  "slug": "/how-using/page",
+  "permalink": "/docs-pythonvn/docs/how-using/page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-using/page.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Page"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Media",
+    "permalink": "/docs-pythonvn/docs/how-using/media"
+  },
+  "next": {
+    "title": "Post",
+    "permalink": "/docs-pythonvn/docs/how-using/post"
+  }
+}

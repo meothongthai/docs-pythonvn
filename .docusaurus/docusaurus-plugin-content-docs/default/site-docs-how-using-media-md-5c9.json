@@ -1,0 +1,28 @@
+{
+  "id": "how-using/media",
+  "title": "Media",
+  "description": "",
+  "source": "@site/docs/how-using/media.md",
+  "sourceDirName": "how-using",
+  "slug": "/how-using/media",
+  "permalink": "/docs-pythonvn/docs/how-using/media",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-using/media.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Media"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Login",
+    "permalink": "/docs-pythonvn/docs/how-using/login"
+  },
+  "next": {
+    "title": "Page",
+    "permalink": "/docs-pythonvn/docs/how-using/page"
+  }
+}

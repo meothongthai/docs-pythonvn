@@ -1,0 +1,28 @@
+{
+  "id": "how-using/post",
+  "title": "Bài viết",
+  "description": "\"Bài viết là nội dung được đăng tải lên website, bao gồm tiêu đề, văn bản, hình ảnh hoặc video, dùng để chia sẻ thông tin, tin tức, hoặc quảng bá sản phẩm/dịch vụ. Bạn có thể thêm, sửa, xóa và phân loại bài viết theo danh mục để quản lý hiệu quả theo hướng dẫn sau.\"",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/how-using/post.mdx",
+  "sourceDirName": "how-using",
+  "slug": "/how-using/post",
+  "permalink": "/docs-pythonvn/vi/docs/how-using/post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-using/post.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Bài viết"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trang",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/page"
+  },
+  "next": {
+    "title": "Trình chiếu",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/slide"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "/docs-pythonvn/vi/markdown-page-2a6": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/docs-pythonvn/vi/docs-7b6": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docs-pythonvn/vi/docs-710": {
+    "__comp": "a7bd4aaa",
+    "__props": "87d1a607"
+  },
+  "/docs-pythonvn/vi/docs-3ef": {
+    "__comp": "a94703ab"
+  },
+  "/docs-pythonvn/vi/docs/category/how-using-573": {
+    "__comp": "14eb3368",
+    "__props": "2cff39d3"
+  },
+  "/docs-pythonvn/vi/docs/category/install-c05": {
+    "__comp": "14eb3368",
+    "__props": "ff8f880f"
+  },
+  "/docs-pythonvn/vi/docs/how-using/account-716": {
+    "__comp": "17896441",
+    "content": "08d99e65"
+  },
+  "/docs-pythonvn/vi/docs/how-using/login-603": {
+    "__comp": "17896441",
+    "content": "544aceb6"
+  },
+  "/docs-pythonvn/vi/docs/how-using/media-a5c": {
+    "__comp": "17896441",
+    "content": "76ab9b66"
+  },
+  "/docs-pythonvn/vi/docs/how-using/menu-fde": {
+    "__comp": "17896441",
+    "content": "83827ae1"
+  },
+  "/docs-pythonvn/vi/docs/how-using/overview-3ce": {
+    "__comp": "17896441",
+    "content": "0ce93f3e"
+  },
+  "/docs-pythonvn/vi/docs/how-using/page-1ca": {
+    "__comp": "17896441",
+    "content": "eaac831b"
+  },
+  "/docs-pythonvn/vi/docs/how-using/post-43e": {
+    "__comp": "17896441",
+    "content": "e812f2b9"
+  },
+  "/docs-pythonvn/vi/docs/how-using/slide-ff0": {
+    "__comp": "17896441",
+    "content": "632565e2"
+  },
+  "/docs-pythonvn/vi/docs/install/server-gunicorn-49a": {
+    "__comp": "17896441",
+    "content": "ebc68095"
+  },
+  "/docs-pythonvn/vi/docs/intro-942": {
+    "__comp": "17896441",
+    "content": "fecb6510"
+  },
+  "/docs-pythonvn/vi/-c4c": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

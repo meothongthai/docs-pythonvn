@@ -1,0 +1,28 @@
+{
+  "id": "how-using/menu",
+  "title": "Menu",
+  "description": "Menu là hệ thống liên kết điều hướng giúp người dùng dễ dàng truy cập đến các trang hoặc nội dung quan trọng trên site. Thông thường, menu được đặt ở vị trí nổi bật như đầu trang (header), bên cạnh (sidebar) hoặc cuối trang (footer). Menu đóng vai trò như bản đồ chỉ đường, giúp khách truy cập nhanh chóng tìm thấy thông tin họ cần mà không phải mất thời gian tìm kiếm. Một menu được thiết kế khoa học, rõ ràng không chỉ nâng cao trải nghiệm người dùng mà còn góp phần tăng tính chuyên nghiệp, thẩm mỹ và hiệu quả của website.",
+  "source": "@site/i18n/vi/docusaurus-plugin-content-docs/current/how-using/menu.mdx",
+  "sourceDirName": "how-using",
+  "slug": "/how-using/menu",
+  "permalink": "/docs-pythonvn/vi/docs/how-using/menu",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-using/menu.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "Menu"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trình chiếu",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/slide"
+  },
+  "next": {
+    "title": "Tài khoản",
+    "permalink": "/docs-pythonvn/vi/docs/how-using/account"
+  }
+}
