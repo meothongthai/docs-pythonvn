@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Tài liệu Pythonvn',
   tagline: 'Xem ngay tài liệu của bạn ngay bây giờ tại docs.pythonvn.com',
-  favicon: 'img/dóc-logo.svg',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {

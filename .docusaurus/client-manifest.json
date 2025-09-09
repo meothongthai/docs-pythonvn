@@ -215,9 +215,9 @@
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.dc40510e.js",
-          "hash": "e3d5d8666ca9d18c",
-          "publicPath": "/vi/assets/js/runtime~main.dc40510e.js"
+          "file": "assets/js/runtime~main.cdd33e2e.js",
+          "hash": "6cc73b2ff387d084",
+          "publicPath": "/vi/assets/js/runtime~main.cdd33e2e.js"
         }
       ]
     },
@@ -287,9 +287,9 @@
     "667": {
       "js": [
         {
-          "file": "assets/js/ebc68095.d67f708e.js",
-          "hash": "023e67562cf4daaf",
-          "publicPath": "/vi/assets/js/ebc68095.d67f708e.js"
+          "file": "assets/js/ebc68095.8b019932.js",
+          "hash": "f9d92c53bff3bdfe",
+          "publicPath": "/vi/assets/js/ebc68095.8b019932.js"
         }
       ]
     },
@@ -332,9 +332,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.f1400602.js",
-          "hash": "047f740e0d92cb89",
-          "publicPath": "/vi/assets/js/main.f1400602.js"
+          "file": "assets/js/main.4fd6e5d2.js",
+          "hash": "c4aa239e5accad47",
+          "publicPath": "/vi/assets/js/main.4fd6e5d2.js"
         }
       ]
     },
